@@ -1,0 +1,3 @@
+[submodule "projects/running/race_split_calculator"]
+	path = projects/running/race_split_calculator
+	url = https://github.com/NicholashBedi/race_split_calculator.git
